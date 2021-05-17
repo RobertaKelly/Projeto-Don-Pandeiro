@@ -8,14 +8,14 @@
 
 ## Sobre o projeto
 <p align="center">
-<img src="https://raw.githubusercontent.com/RobertaKelly/Projeto-Don-Pandeiro/main/image/don%20pandeiro%20rodando.png" width="60%" height="40%">
+<img src="https://github.com/RobertaKelly/Projeto-Don-Pandeiro/blob/main/image/don%20pandeiro%20sapato.png" width="60%" height="40%">
 </p>
 Esse Projeto trata-se de um portifole de um dos maiores sambistas brasileiros, com informações de sua carreira, video, matérias, história de vida, apresentações e parceiros. 
 
 
 ## Aplicativo
 <p align="center">
-<img src="" >
+<img src="https://raw.githubusercontent.com/RobertaKelly/Projeto-Don-Pandeiro/main/foto%20app%20don.png" >
 </p>
 
 ### Link Deploy

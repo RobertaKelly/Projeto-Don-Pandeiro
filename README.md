@@ -1,4 +1,4 @@
-<h1 align="center"><Projeto Don Pandeiro /> </h1>
+<h1 align="center"> Projeto Don Pandeiro </h1>
 <h3 align="center"><Projeto desenvolvido por Roberta Kelly</h3>
 <p align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" alt="css3"  width="50" height="50"/>
@@ -6,47 +6,22 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
-<p align="center"> 
-<a href="https://github.com/RobertaKelly"><strong>Explorar Docs</a>
-</p>
-
-<details open="open">
-  <summary><h4>Sumário</h4></summary>
-  <ol>
-    <li>
-      <a href="#sobre-o-projeto">Sobre o projeto</a>
-      <ul>
-        <li><a href="#linguagens-e-ferramentas">Linguagens e Ferramentas</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#aplicativo">Aplicativo</a> 
-       <ul>
-        <li><a href="#link-deploy">Link Deploy</a></li>
-      </ul>
-    </li>
-    <li><a href="#contribua">Contribuidua</a></li>
-    <li><a href="#contato">Contato</a></li>
-    <li><a href="#agradecimento">Agradecimento</a></li>
-  </ol>
-</details>
-
 ## Sobre o projeto
 <p align="center">
-<img src="" width="60%" height="40%">
+<img src="https://github.com/RobertaKelly/Projeto-Don-Pandeiro/blob/main/image/don%20pandeiro%20sapato.png" width="60%" height="40%">
 </p>
+Esse Projeto trata-se de um portifole de um dos maiores sambistas brasileiros, com informações de sua carreira, video, matérias, história de vida, apresentações e parceiros. 
 
-**O Portfólio** 
 
 ## Aplicativo
 <p align="center">
-<img src="" >
+<img src="https://raw.githubusercontent.com/RobertaKelly/Projeto-Don-Pandeiro/main/foto%20app%20don.png" >
 </p>
 
 ### Link Deploy
-💻👉🏽 [Projeto Don Pandeiro]()
+💻👉🏽 [Projeto Don Pandeiro](https://projeto-don-pandeiro.vercel.app/)
 
-## Contato
-
-Don Pandeiro - []()- donpandeirooficial@gmail.com
+ 
+ ## Projeto desenvolvido por Roberta Kelly 
+ [Linkedin](https://www.linkedin.com/in/roberta-kelly/)
 

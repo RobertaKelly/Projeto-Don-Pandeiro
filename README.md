@@ -19,11 +19,9 @@ Esse Projeto trata-se de um portifole de um dos maiores sambistas brasileiros, c
 </p>
 
 ### Link Deploy
-💻👉🏽 [Projeto Don Pandeiro]()
+💻👉🏽 [Projeto Don Pandeiro](https://projeto-don-pandeiro.vercel.app/)
 
-## Contato
-
-Don Pandeiro - []()- donpandeirooficial@gmail.com
  
  ## Projeto desenvolvido por Roberta Kelly 
+ [Linkedin](https://www.linkedin.com/in/roberta-kelly/)
 

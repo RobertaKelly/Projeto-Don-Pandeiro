@@ -24,4 +24,6 @@ Esse Projeto trata-se de um portifole de um dos maiores sambistas brasileiros, c
 ## Contato
 
 Don Pandeiro - []()- donpandeirooficial@gmail.com
+ 
+ ## Projeto desenvolvido por Roberta Kelly 
 

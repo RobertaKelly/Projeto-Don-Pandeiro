@@ -2,7 +2,6 @@ window.addEventListener('scroll', function(){
     const header = document.querySelector('header');
     header.classList.toggle('sticky', window.screenY > 0); 
  });
- 
  const menuBtn = document.querySelector('.menu-btn');
  const navigation = document.querySelector('.navigation');
  const navigationItens = document.querySelectorAll('.navigation a');

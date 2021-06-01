@@ -216,6 +216,8 @@ body{
     display: flex;
     justify-content: space-between;
     color: #fff;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 .skills .content .col-left{
     position: relative;
@@ -277,7 +279,7 @@ body{
 }
 
 /*.title.reveal.active .card.reveal.active .info.info-text{
-/* margin-left: 90px;*/
+margin-left: 90px;*/
 
 
 .work{
@@ -546,4 +548,9 @@ body{
 .reveal.active{
     transform: translateY(0);
     opacity: 1;
+}
+.embed audio {
+    width: 250px;
+    height: 40px;
+
 }

@@ -18,6 +18,12 @@ Esse Projeto trata-se de um portifole de um dos maiores sambistas brasileiros, c
 <img src="https://raw.githubusercontent.com/RobertaKelly/Projeto-Don-Pandeiro/main/foto%20app%20don.png" >
 </p>
 
+ ## Aplicativo
+<p align="center">
+<img src="Don Pandeiro - Google Chrome 2021-06-02 13-04-29_Trim (2).mp4" >
+</p>
+ 
+ 
 ### Link Deploy
 💻👉🏽 [Projeto Don Pandeiro](https://donpandeiro.netlify.app/)
 
